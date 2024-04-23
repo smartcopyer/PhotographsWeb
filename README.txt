@@ -1,7 +1,2 @@
-Template Name: Untreefolio
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
-
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+网站模板: https://creativecommons.org/licenses/by/3.0/
+访问网址：https://smartcopyer.github.io/PhotographsWeb/
